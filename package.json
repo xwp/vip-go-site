@@ -1,7 +1,7 @@
 {
   "private": true,
   "engines": {
-    "node": "^v12.20.1"
+    "node": "^v14.16.0"
   },
   "scripts": {
     "preinstall": "composer install",
